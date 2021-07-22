@@ -24,6 +24,8 @@
 		C15F946C26A60D5A008E6627 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C15F946F26A60D5A008E6627 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C15F947126A60D5A008E6627 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C1C8421026A9AE8A00477272 /* SpecialLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = SpecialLocation.gpx; sourceTree = "<group>"; };
+		C1C8421126A9AED100477272 /* SpecialLocation.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = SpecialLocation.gpx; path = LocationProject/SpecialLocation.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,6 +42,7 @@
 		C15F945726A60D57008E6627 = {
 			isa = PBXGroup;
 			children = (
+				C1C8421126A9AED100477272 /* SpecialLocation.gpx */,
 				C15F946226A60D57008E6627 /* LocationProject */,
 				C15F946126A60D57008E6627 /* Products */,
 			);
@@ -63,6 +66,7 @@
 				C15F946C26A60D5A008E6627 /* Assets.xcassets */,
 				C15F946E26A60D5A008E6627 /* LaunchScreen.storyboard */,
 				C15F947126A60D5A008E6627 /* Info.plist */,
+				C1C8421026A9AE8A00477272 /* SpecialLocation.gpx */,
 			);
 			path = LocationProject;
 			sourceTree = "<group>";
